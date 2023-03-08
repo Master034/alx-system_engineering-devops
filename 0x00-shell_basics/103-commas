@@ -1,1 +1,1 @@
-ls -pav | sort -v | paste -sd ","
+ls -amp
